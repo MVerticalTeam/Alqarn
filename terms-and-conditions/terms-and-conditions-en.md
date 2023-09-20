@@ -1,3 +1,4 @@
+![Image](../assets/images/logo.png)
 # Terms of Use for The Century Perfumes Store Application
 
 ## Personal Data:
