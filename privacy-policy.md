@@ -1,4 +1,13 @@
-<img src="assets/images/logo.png" alt="Image" style="border-radius: 50%; width:200px; height:200px;"> 
+<style>
+    .circle-image {
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+</style>
+
+<img src="assets/images/logo.png" alt="Image" class="circle-image">
 
 # Privacy Policy for Alqarn Perfume Store Application
 
