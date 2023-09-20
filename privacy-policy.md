@@ -1,4 +1,4 @@
-<div style="width:100px; height:100px;">
+<div style="width:10px; height:10px;">
     <img src="assets/images/logo.png" alt="Image" style="max-width:100%; max-height:100%;">
 </div> # Privacy Policy for Alqarn Perfume Store Application
 
