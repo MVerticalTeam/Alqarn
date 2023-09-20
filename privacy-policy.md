@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="assets/images/logo.png" alt="Image" style="border-radius: 50%; width: 200px; height: 200px;">
-</div>
+ <img src="assets/images/logo.png" alt="Image" style="border-radius: 50%; width: 200px; height: 200px;">
 
 # Privacy Policy for Alqarn Perfume Store Application
 
