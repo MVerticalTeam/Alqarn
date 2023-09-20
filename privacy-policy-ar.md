@@ -1,3 +1,5 @@
+ <img src="assets/images/logo.png" alt="Image" style="width: 150px; height: 150px;">  <img src="assets/images/categories_background.jpg" alt="Image" style="width: 60%; height: 150px;">  <img src="assets/images/logo.png" alt="Image" style="width: 150px; height: 150px;">
+
 # سياسة الخصوصية لتطبيق متجر القرن للعطور
 
 نحن في تطبيق متجر القرن للعطور ملتزمون بحماية خصوصية مستخدمينا وضمان سرية المعلومات التي يشاركونها معنا. نحن نقدر ثقتكم فينا ونتعهد بحماية المعلومات الشخصية التي تقدمونها لنا. يرجى قراءة سياسة الخصوصية التالية لفهم كيف نجمع ونستخدم ونحمي المعلومات التي تتم مشاركتها معنا.
