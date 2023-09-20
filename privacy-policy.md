@@ -1,4 +1,4 @@
- <img src="assets/images/logo.png" alt="Image" style="width: 200px; height: 200px;">
+ <img src="assets/images/logo.png" alt="Image" style="width: 150px; height: 1500px;">
 
 # Privacy Policy for Alqarn Perfume Store Application
 
