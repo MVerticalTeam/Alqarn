@@ -1,6 +1,4 @@
-<div style="width:10px; height:10px;">
-    <img src="assets/images/logo.png" alt="Image" style="max-width:10%; max-height:10%;">
-</div> # Privacy Policy for Alqarn Perfume Store Application
+<img src="URL_of_your_image" alt="Image" style="width:100px; height:100px;"> # Privacy Policy for Alqarn Perfume Store Application
 
 We at Alqarn Perfume Store application are committed to protecting the privacy of our users and ensuring the confidentiality of the information they share with us. We appreciate your trust in us and pledge to protect the personal information you provide to us. Please read the following privacy policy to understand how we collect, use, and protect the information shared with us.
 
