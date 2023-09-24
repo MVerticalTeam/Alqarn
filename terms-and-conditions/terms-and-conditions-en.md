@@ -18,6 +18,7 @@
 ## Purchases and Payments:
 - Users must provide accurate and truthful information to complete purchase and payment transactions.
 - Users must confirm and verify the details related to orders and payments before submitting them.
+- We are not responsible for any errors resulting from the provision of false or fake information in any way, and appropriate actions are taken as deemed appropriate by the program management.
 
 ## Liability and Warranty:
 - The application is provided "as is" without any express or implied warranties, including but not limited to, fitness for a particular purpose or merchantability.
