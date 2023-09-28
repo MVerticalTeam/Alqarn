@@ -32,7 +32,7 @@ As a user of the Alqarn Perfume Store application, you have the right to access 
 
 We may update this privacy policy from time to time. You should review this page regularly to stay informed of any changes. We will also notify you of any changes that may affect our use of the personal information collected through a clear notification in the application.
 
-If you have any questions or inquiries about our privacy policy, please contact our customer service team at the following email address: ye.alqarn@gmail.com.
+If you have any questions or inquiries about our privacy policy, please contact our customer service team at the following email address: alqarn@mail.com.
 
 Thank you for using the Alqarn Perfume Store application.
 
